@@ -1,4 +1,4 @@
-// Curso: Formação Lógica de Programação
+// Curso: Formação Lógica de Programação - DIO
 // Projeto: Calculadora de Partidas Rankeadas
 // Nome: Yan Moura Lima
 // Data: 09/08/2025
@@ -58,4 +58,5 @@ function nivel (vitorias) {
 	return classe
 	}
 }
+
 
